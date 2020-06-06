@@ -4,6 +4,7 @@
 ,断路器(Circuit breaker),请求追踪(Request tracing ),服务发现(Service Discovery),因此就想写一篇关于微服务和微服务组件的总结来记录下自己使用优化的过程．
 
 这是学习的天地，也是技术的聚集地，记录了我一路前行的心得，仅以此文分享给所有在微服务架构之路上学习和使用的人。
+
 <p align="center">
 <img width="100%" align="center" src="src/images/3.jpg" />
 </p>
@@ -22,15 +23,13 @@
 * [Consul分布式配置中心](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter11/01.0.md)
 * [x86汇编指令集](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter12/01.0.md)
 * [plan9汇编解析](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter13/01.0.md)
-* [linux服务](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter14/01.0.md)
+* [linux性能优化](https://github.com/KeKe-Li/micro-Services-Tutorial/blob/master/src/chapter14/01.0.md)
+
+
 
 #### golang编程
 
-觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以加我的微信,也可以加入我们的交流群一起交流技术！
-<p align="center">
-<img width="300" align="center" src="src/images/12.jpg" />
-<img width="300"  align="center" src="src/images/13.jpg" />
-</p>
+觉得此文章不错，支持我的话可以给我star ，:star:！如果有问题可以给我提issues,一起交流.
 
 
 #### License
